@@ -24,6 +24,7 @@
 <...>
 
 ## 機能
+
 ・ログイン機能(devise)
 ・レスポンシブデザイン（Flexbox,Boostrap）
 ・BEM記法
