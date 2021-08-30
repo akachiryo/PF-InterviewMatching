@@ -25,12 +25,12 @@
 
 ## 機能
 
-・ログイン機能(devise)
-・レスポンシブデザイン（Flexbox,Boostrap）
-・BEM記法
-・環境変数化（bash_profile）
-・テスト（RSpec）
-・検索、コメント、通知、タグ等
+- ログイン機能(devise)
+- レスポンシブデザイン（Flexbox,Boostrap）
+- BEM記法
+- 環境変数化（bash_profile）
+- テスト（RSpec）
+- 検索、コメント、通知、タグ等
 ## 開発環境
 - OS：Linux(CentOS)
 - 言語：HTML,CSS,JavaScript,Ruby,SQL
